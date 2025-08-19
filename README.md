@@ -47,8 +47,8 @@ These instructions will get you a copy of the project up and running on your loc
 This project requires the following:
 
 * **Node.js** (v16+)
-* **npm** or **yarn**
-* **MongoDB** (local or Atlas)
+* **npm**
+* **MongoDB** (Atlas)
 * **Cloudinary** account
 
 ---
@@ -97,3 +97,7 @@ Build JOB-PORTAL from source and install dependencies:
 ```bash
 cd backend
 npm run dev
+```
+SCREEN SHOTS
+```
+<img width="1732" height="808" alt="Screenshot 2025-08-19 123209" src="https://github.com/user-attachments/assets/5403304a-4e9f-4233-b50d-04365d9ab319" />
