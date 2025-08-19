@@ -100,4 +100,4 @@ npm run dev
 ```
 SCREEN SHOTS
 ```
-![Login page](https://github.com/sekharsekhar/JOB_PORTAL_USING_MERN/blob/main/Screenshot%202025-08-19%20123209.png?raw=true)
+![image alt](https://github.com/sekharsekhar/JOB_PORTAL_USING_MERN/blob/main/Screenshot%202025-08-19%20123209.png?raw=true)
