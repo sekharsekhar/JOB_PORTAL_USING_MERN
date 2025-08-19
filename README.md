@@ -100,4 +100,4 @@ npm run dev
 ```
 SCREEN SHOTS
 ```
-<img width="1732" height="808" alt="Screenshot 2025-08-19 123209" src="https://github.com/user-attachments/assets/5403304a-4e9f-4233-b50d-04365d9ab319" />
+![Login page](https://github.com/sekharsekhar/JOB_PORTAL_USING_MERN/blob/7917e4e81bfeaa155b7de74d6c5a709c0bbeaa6b/Screenshot%202025-08-19%20123209.png)
